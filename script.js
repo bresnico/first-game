@@ -1,1 +1,1 @@
-document.getElementById("prout");
+console.log("prout !")
